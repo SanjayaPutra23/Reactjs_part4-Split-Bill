@@ -6,19 +6,19 @@ import FriendList from "./components/FriendList";
 const initialFriends = [
   {
     id: 118836,
-    name: "Budi",
-    image: "https://i.pravatar.cc/48?u=118836",
-    balance: -7,
+    name: "Diva",
+    image: "https://mighty.tools/mockmind-api/content/human/7.jpg",
+    balance: 0,
   },
   {
     id: 933372,
-    name: "Sukma",
-    image: "https://i.pravatar.cc/48?u=933372",
-    balance: 20,
+    name: "Nopal",
+    image: "https://mighty.tools/mockmind-api/content/human/41.jpg",
+    balance: 0,
   },
   {
     id: 499476,
-    name: "Parjo",
+    name: "Sanjaya",
     image: "https://i.pravatar.cc/48?u=499476",
     balance: 0,
   },
